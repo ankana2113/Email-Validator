@@ -1,5 +1,5 @@
 # EMAIL VALIDATOR
-This repository contains the code for an application that validates email addresses from an uploaded Excel file and sorts them into two separate downloadable Excel files: valid emails and disposable emails.
+This repository contains the code for a GUI that validates email addresses from an uploaded Excel file and sorts them into two separate downloadable Excel files: 'ValidEmails.xlsx' and 'DisposableEmails.xlsx'.
 
 # Features
 1. Validates email addresses against common email formatting rules.  
@@ -14,5 +14,5 @@ This application may require additional libraries depending on the chosen progra
 The application will prompt you to upload an Excel file containing email addresses.
 
 The application will process the file and generate two downloadable Excel files: <br>
-- [ValidEmails.xlsx]  and<br>
+- [ValidEmails.xlsx]  <br>and<br>
 - [DisposableEmails.xlsx]
